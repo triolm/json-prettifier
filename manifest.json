@@ -1,13 +1,7 @@
 {
-    "name": "Getting Started Example",
-    "description": "Build an Extension!",
+    "name": "Json Pretty Printer",
     "version": "1.0",
     "manifest_version": 3,
-    "background": {
-        "service-worker": [
-            "background.js"
-        ]
-    },
     "permissions": [
         "storage",
         "activeTab",
